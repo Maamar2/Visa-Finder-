@@ -1,0 +1,5 @@
+{
+  "name": "Visa Alert Bot",
+  "description": "An intelligent bot that helps you find available visa appointment dates using a calendar view and simulated real-time alerts powered by Gemini.",
+  "requestFramePermissions": []
+}
